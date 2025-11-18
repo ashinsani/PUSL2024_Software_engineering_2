@@ -46,7 +46,3 @@ Here are the core features of the project (adapt as necessary):
 - **Other Tools**: Docker (if used), Postman, CI/CD, etc.
 
 ---
-
-
-Here is a sample folder structure. Adjust based on your actual repo:
-
